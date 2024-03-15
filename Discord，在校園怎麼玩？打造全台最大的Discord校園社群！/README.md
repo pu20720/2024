@@ -11,6 +11,7 @@
   - [第一次會議記錄.docx](https://github.com/xiaojie4082/2024/blob/main/Discord%EF%BC%8C%E5%9C%A8%E6%A0%A1%E5%9C%92%E6%80%8E%E9%BA%BC%E7%8E%A9%EF%BC%9F%E6%89%93%E9%80%A0%E5%85%A8%E5%8F%B0%E6%9C%80%E5%A4%A7%E7%9A%84Discord%E6%A0%A1%E5%9C%92%E7%A4%BE%E7%BE%A4%EF%BC%81/%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84.pdf)
   - [第二次會議記錄.docx](https://github.com/xiaojie4082/2024/blob/main/Discord%EF%BC%8C%E5%9C%A8%E6%A0%A1%E5%9C%92%E6%80%8E%E9%BA%BC%E7%8E%A9%EF%BC%9F%E6%89%93%E9%80%A0%E5%85%A8%E5%8F%B0%E6%9C%80%E5%A4%A7%E7%9A%84Discord%E6%A0%A1%E5%9C%92%E7%A4%BE%E7%BE%A4%EF%BC%81/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84.pdf)
 - 畢業專題計畫書：
+  - [畢業專題計畫書.docx](https://github.com/xiaojie4082/2024/blob/main/Discord%EF%BC%8C%E5%9C%A8%E6%A0%A1%E5%9C%92%E6%80%8E%E9%BA%BC%E7%8E%A9%EF%BC%9F%E6%89%93%E9%80%A0%E5%85%A8%E5%8F%B0%E6%9C%80%E5%A4%A7%E7%9A%84Discord%E6%A0%A1%E5%9C%92%E7%A4%BE%E7%BE%A4%EF%BC%81/%E7%95%A2%E6%A5%AD%E5%B0%88%E9%A1%8C%E8%A8%88%E7%95%AB%E6%9B%B8.doc)
 - 成果報告書：
 - 程式：
 - 簡報：
