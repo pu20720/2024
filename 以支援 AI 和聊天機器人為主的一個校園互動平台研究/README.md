@@ -22,4 +22,4 @@
 - 海報：
   - [以支援AI和聊天機器人為主的一個校園互動平台研究.jpg](https://github.com/pu20720/2024/tree/main/%E4%BB%A5%E6%94%AF%E6%8F%B4%20AI%20%E5%92%8C%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA%E7%82%BA%E4%B8%BB%E7%9A%84%E4%B8%80%E5%80%8B%E6%A0%A1%E5%9C%92%E4%BA%92%E5%8B%95%E5%B9%B3%E5%8F%B0%E7%A0%94%E7%A9%B6/以支援AI和聊天機器人為主的一個校園互動平台研究.jpg)
 - 介紹影片：
-  - https://www.youtube.com/
+  - https://www.youtube.com/watch?v=e0ID2-iukfw
