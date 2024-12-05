@@ -13,4 +13,4 @@
 ## 海報：
 * B11-利用深度學習實現蝦隻的追蹤與自動化測量系統-海報.jpg
 ## 專題介紹影片：
-* [YouTube Link]([https://www.youtube.com/watch?v=9N5oYE6dZ4A](https://www.youtube.com/watch?v=9N5oYE6dZ4A))
+* [Watch on YouTube](https://www.youtube.com/watch?v=9N5oYE6dZ4A)
