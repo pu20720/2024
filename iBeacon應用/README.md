@@ -15,8 +15,8 @@
 ## 程式
 - [iBeacon應用.zip](https://github.com/Leolinlin123/2024/blob/main/iBeacon%E6%87%89%E7%94%A8/iBeacon%E7%A8%8B%E5%BC%8F.zip)
 ## 簡報
-- 
+- [iBeacon簡報.ppt]
 ## 海報
-- 
+- [iBeacon海報.jpg](https://github.com/Leolinlin123/2024/blob/main/iBeacon%E6%87%89%E7%94%A8/iBeacon%E6%B5%B7%E5%A0%B1.jpg)
 ## 介紹影片
 - 
