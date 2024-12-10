@@ -1,0 +1,45 @@
+.tree-view {
+   margin: 0;
+   padding: 0;
+   list-style: none;
+}
+
+.tree-node {
+   padding-left: 5px;
+   padding: 3px 0 3px 5px;
+}
+
+.toggle-content.selected {
+   background-color: #3d3d3d;
+}
+
+.tree-node .tree-node {
+   padding-left: 20px;
+}
+
+.toggle-content {
+   cursor: pointer;
+   background-color: transparent;
+   margin-right: 5px;
+}
+
+.toggle-icon:focus {
+   outline: 2px solid blue;
+}
+
+input {
+   padding: 10px;
+   font-size: 24px;
+}
+
+/* animation */
+.children {
+   max-height: 0;
+   overflow: hidden;
+   transition: max-height 0.2s ease-out;
+}
+
+.children.open {
+   max-height: 1000px;
+   transition: max-height 0.3s ease-in;
+}
